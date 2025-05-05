@@ -1,0 +1,8 @@
+homepage: "https://www.chriswebster.coffee/"
+versions:
+  # Latest version
+  - sha: f6df13a33a1d90a5f6466ba813b981e765d8b83f
+    changeNotes: initial release
+  - sha: 1c5a5643041b0a24cbbdba711d627920823c2cc6
+    changeNotes: Initial commit
+  # Older versions
