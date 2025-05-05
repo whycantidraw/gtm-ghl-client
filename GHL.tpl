@@ -1,4 +1,12 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "type": "CLIENT",
@@ -8,9 +16,9 @@
   "displayName": "GHL",
   "brand": {
     "id": "brand_dummy",
-    "displayName": ""
+    "displayName": "Where U?"
   },
-  "description": "",
+  "description": "GoHighLevel Client Template. For use in conjunction with the GHL Automations Webhook action.",
   "containerContexts": [
     "SERVER"
   ]
@@ -485,6 +493,6 @@ setup: |-
 
 ___NOTES___
 
-Created on 05/05/2025, 12:32:08
+Created on 05/05/2025, 13:10:24
 
 
